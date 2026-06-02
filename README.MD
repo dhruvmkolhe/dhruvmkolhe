@@ -8,7 +8,7 @@
 
 > **I build products powered by engineering and curiosity.**
 
-*Focused on systems, clean code, and solving problems that make a difference.*
+*Focused on systems, clean code and solving problems that make a difference.*
 
 <br>
 
