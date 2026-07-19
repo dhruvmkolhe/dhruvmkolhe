@@ -6,9 +6,9 @@
   
   ## 👋 Hi, I'm DK
   
-  **I build products powered by engineering and curiosity.**
+  **I architect like a toddler with Legos.**
   
-  *Focused on systems, clean code and solving problems that make a difference.*
+  *Clean code? Sometimes. Entertaining failures? Always.*
   
   <br>
   
