@@ -8,7 +8,7 @@
   
   **I architect like a toddler with Legos.**
   
-  *Clean code? Sometimes. Entertaining failures? Always.*
+  *Sometimes it's architecture. Sometimes it's an expensive pile of blocks.*
   
   <br>
   
